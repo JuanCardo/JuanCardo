@@ -1,7 +1,7 @@
 ### Olá! Me chamo Juan Cardoso 👋
 
-- 🔭 Estou atualmente, procurando uma oportunidade na área da Tecnologia. 
-- 🌱 Estudando Excel e Python.
+- 🔭 Estou atualmente, procurando a minha primeira oportunidade na área da Tecnologia. 
+- 🌱 Estudando  HTML e CSS.
 
 <div> 
   <a href = "mailto:juancardosods@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
