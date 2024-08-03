@@ -1,6 +1,6 @@
 ### Olá! Me chamo Juan Cardoso 👋
 
-- 🔭 Estou atualmente, procurando a minha primeira oportunidade na área da Tecnologia. 
+- 🔭 Em Trasição de Carreira, com o objetivo de seguir na carreira de Tecnologia. 
 - 🌱 Estudando HTML e CSS | Cursando Inglês na Wizard by Pearson.
 
 <div>
