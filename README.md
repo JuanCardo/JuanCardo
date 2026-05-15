@@ -1,8 +1,21 @@
 ### Olá! Me chamo Juan Cardoso 👋
 
-- 🔭 Em Transição de Carreira, com o objetivo de seguir na carreira de Tecnologia. 
-- 🌱 Estudando HTML e CSS | Cursando Inglês na Wizard by Pearson.
+💻 Profissional em transição para Desenvolvimento Mobile, com experiência em Suporte Técnico e Infraestrutura de TI.
+
+🎓 Estudante de Tecnologia em Desenvolvimento Mobile pela UNINTER.
+
+🚀 Atualmente estudando Flutter, Dart, HTML, CSS e desenvolvimento de aplicações mobile.
+
+🛠️ Conhecimentos em:
+- Windows e Linux
+- Redes TCP/IP
+- Git e GitHub
+- Suporte Técnico e manutenção de computadores
+
+📚 Aprimorando inglês na Wizard by Pearson.
 
 <div>
-  <a href="https://www.linkedin.com/in/juan-cardoso-dos-santos-410696211/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/juan-cardoso-dos-santos-410696211/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
 </div>
