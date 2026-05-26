@@ -12,7 +12,7 @@
 - Git e GitHub
 - Suporte Técnico e manutenção de computadores
 
-📚 Inglês Intermediário na Wizard by Pearson9 (Interrompido).
+📚 Inglês Intermediário na Wizard by Pearson (Interrompido).
 
 <div>
   <a href="https://www.linkedin.com/in/juan-cardoso-dos-santos-410696211/" target="_blank">
