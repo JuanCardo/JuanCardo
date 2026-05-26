@@ -4,7 +4,10 @@
 
 🎓 Estudante de Tecnologia em Desenvolvimento Mobile pela UNINTER.
 
-🚀 Atualmente estudando Flutter, Dart e desenvolvimento de aplicações mobile.
+📚 Atualmente estudando:
+
+🚀 Flutter, Dart e desenvolvimento de aplicações mobile.
+🚀 Banco de Dados com MySQL.
 
 🛠️ Conhecimentos em:
 - Windows e Linux
