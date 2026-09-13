@@ -5,7 +5,7 @@
 🚀 Atualmente, estou direcionando minha carreira para **Desenvolvimento de Sistemas**, com foco em **C#, .NET e MySQL**, buscando desenvolver aplicações, APIs e soluções que integrem programação, bancos de dados e sistemas.
 
 🎓 **Tecnólogo em Desenvolvimento Mobile — UNINTER**
-⚙️ **Técnico em Eletrônica e Automação Industrial**
+⚙️ **Técnico em Eletrônica e Automação Industrial - ETEC**
 
 ### 📚 Atualmente estudando
 
