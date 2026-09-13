@@ -11,10 +11,7 @@
 
 * 🚀 C# e .NET
 * 🗄️ MySQL e bancos de dados
-* 📱 Desenvolvimento Mobile com Flutter e Dart
-* 🐧 Linux
 * 🔄 Git e GitHub
-* 🤖 Automação e integração de sistemas
 
 ### 🛠️ Conhecimentos
 
