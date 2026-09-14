@@ -40,4 +40,9 @@ Busco uma oportunidade como **Desenvolvedor C# Júnior, Desenvolvedor de Softwar
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 </div>
+<div>
+  <a href="https://judge.beecrowd.com/pt/profile/317243" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=beecrowd&logoColor=white" target="_blank">
+  </a>
+</div>
 
