@@ -36,13 +36,12 @@ Busco uma oportunidade como **Desenvolvedor C# Júnior, Desenvolvedor de Softwar
 📚 **Em constante aprendizado.**
 
 <div>
-  <a href="www.linkedin.com/in/juancardo" target="_blank">
+  <a href="https://www.linkedin.com/in/juancardo" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-</div>
-<div>
+
   <a href="https://judge.beecrowd.com/pt/profile/317243" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=beecrowd&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-beecrowd-%23FFD700?style=for-the-badge&logoColor=%235B2C83" target="_blank">
   </a>
 </div>
 
