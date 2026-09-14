@@ -1,32 +1,37 @@
 # Olá! Me chamo Juan Cardoso 👋
 
-💻 **Profissional de TI** com experiência em **Suporte Técnico e Infraestrutura**, atuando com atendimento a usuários, manutenção de equipamentos, sistemas, redes e resolução de problemas.
+💻 **Profissional de TI** com formação em **Desenvolvimento Mobile**, atualmente direcionando minha carreira para **Desenvolvimento de Software**, com foco em **C# e MySQL**.
 
-🚀 Atualmente, estou direcionando minha carreira para **Desenvolvimento de Sistemas**, com foco em **C#, .NET e MySQL**, buscando desenvolver aplicações, APIs e soluções que integrem programação, bancos de dados e sistemas.
+🚀 Busco transformar meus conhecimentos em **projetos práticos e aplicações**, desenvolvendo minha experiência com programação, bancos de dados e boas práticas de desenvolvimento.
 
-🎓 **Tecnólogo em Desenvolvimento Mobile — UNINTER**
-⚙️ **Técnico em Eletrônica e Automação Industrial - ETEC**
+🎓 **Tecnólogo em Desenvolvimento Mobile — UNINTER**  
+⚙️ **Técnico em Eletrônica e Automação Industrial — ETEC**
 
 ### 📚 Atualmente estudando
 
-* 🚀 C# e .NET
+* 🚀 C#
 * 🗄️ MySQL e bancos de dados
+* 💻 Desenvolvimento de aplicações
 * 🔄 Git e GitHub
+* 🛠️ Visual Studio
 
 ### 🛠️ Conhecimentos
 
-* Suporte Técnico N1
-* Manutenção preventiva e corretiva
-* Hardware e diagnóstico de problemas
-* Redes TCP/IP
-* Windows e Linux
-* Instalação e configuração de sistemas
+* C#
+* MySQL
+* Visual Studio
 * Git e GitHub
-* Abertura e acompanhamento de chamados
+* Lógica de programação
+* Desenvolvimento de aplicações
+* Windows
+
+### 📂 Projetos
+
+Estou desenvolvendo projetos práticos para aprimorar meus conhecimentos em **C#, bancos de dados e desenvolvimento de software**.
 
 ### 🎯 Objetivo
 
-Busco evoluir continuamente na área de Tecnologia, transformando meus conhecimentos em **projetos práticos, aplicações e soluções**, enquanto avanço profissionalmente na área de Desenvolvimento.
+Busco uma oportunidade como **Desenvolvedor C# Júnior, Desenvolvedor de Software Júnior, Analista de Sistemas Júnior ou Estagiário em Desenvolvimento**, onde possa aplicar meus conhecimentos, desenvolver experiência profissional e continuar evoluindo na área de Tecnologia.
 
 📚 **Em constante aprendizado.**
 
