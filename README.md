@@ -1,5 +1,5 @@
 <h1 align="center">
-  <code>&gt; Juan Cardoso|</code>
+  <code>&gt; Juan Cardoso dos Santos|</code>
 </h1>
 
 <p align="center">
@@ -33,31 +33,31 @@
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" alt="C#" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="50" height="50" alt="Visual Studio" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50" height="50" alt="Windows" />
-
-<br><br>
-
-<strong>C#</strong>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<strong>MySQL</strong>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<strong>Git</strong>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<strong>GitHub</strong>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<strong>Visual Studio</strong>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<strong>Windows</strong>
+<p align="center">
+  <a href="#">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" alt="C#" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="50" height="50" alt="Visual Studio" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50" height="50" alt="Windows" />
+  </a>
+</p>
 
 </div>
 
