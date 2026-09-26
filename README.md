@@ -34,44 +34,27 @@
 <div align="center">
 
 <div style="display:inline-block; margin:0 15px; text-align:center;">
-  <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" alt="C#" />
-  </a>
+  <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" alt="C#" /></a>
   <br /><sub><b>C#</b></sub>
 </div>
-
 <div style="display:inline-block; margin:0 15px; text-align:center;">
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" />
-  </a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" /></a>
   <br /><sub><b>MySQL</b></sub>
 </div>
-
 <div style="display:inline-block; margin:0 15px; text-align:center;">
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git" />
-  </a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git" /></a>
   <br /><sub><b>Git</b></sub>
 </div>
-
 <div style="display:inline-block; margin:0 15px; text-align:center;">
-  <a href="https://github.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub" />
-  </a>
+  <a href="https://github.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub" /></a>
   <br /><sub><b>GitHub</b></sub>
 </div>
-
 <div style="display:inline-block; margin:0 15px; text-align:center;">
-  <a href="https://visualstudio.microsoft.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="50" height="50" alt="Visual Studio" />
-  </a>
+  <a href="https://visualstudio.microsoft.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="50" height="50" alt="Visual Studio" /></a>
   <br /><sub><b>Visual Studio</b></sub>
 </div>
-
 <div style="display:inline-block; margin:0 15px; text-align:center;">
-  <a href="https://www.microsoft.com/windows" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50" height="50" alt="Windows" />
-  </a>
+  <a href="https://www.microsoft.com/windows" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50" height="50" alt="Windows" /></a>
   <br /><sub><b>Windows</b></sub>
 </div>
 
