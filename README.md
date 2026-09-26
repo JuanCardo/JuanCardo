@@ -4,10 +4,10 @@
 
 🚀 Busco transformar meus conhecimentos em **projetos práticos e aplicações**, desenvolvendo minha experiência com programação, bancos de dados e boas práticas de desenvolvimento.
 
-```markdown
+markdown
 ## 🎓 Formação
 
-```csharp
+csharp
 public class Formacao
 {
     public string Graduacao { get; set; } =
@@ -17,7 +17,6 @@ public class Formacao
         "Técnico em Eletrônica e Automação Industrial — ETEC";
 }
 
-```html
 ## 🛠️ Hard Skills
 
 <div align="left">
@@ -39,10 +38,8 @@ public class Formacao
 C# &nbsp;&nbsp;&nbsp;&nbsp; MySQL &nbsp;&nbsp;&nbsp;&nbsp; Git &nbsp;&nbsp;&nbsp;&nbsp; GitHub &nbsp;&nbsp;&nbsp;&nbsp; Visual Studio &nbsp;&nbsp;&nbsp;&nbsp; Windows
 </p>
 
-```markdown
 ## 🎯 Objetivo
 
-```csharp
 public class Objetivo
 {
     public string Cargo { get; set; } =
