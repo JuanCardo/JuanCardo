@@ -33,11 +33,11 @@
 
 <div align="center">
 
-<div style="display:inline-block; margin:0 15px; target="_blank">
+<div style="display:inline-block; margin:0 15px; text-align:center;">
   <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" alt="C#" /></a>
   <br /><sub><b>C#</b></sub>
 </div>
-<div style="display:inline-block; margin:0 15px; target="_blank">
+<div style="display:inline-block; margin:0 15px; text-align:center;">
   <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" /></a>
   <br /><sub><b>MySQL</b></sub>
 </div>
@@ -59,7 +59,6 @@
 </div>
 
 </div>
-
 <hr>
 
 <h2 align="center">🎯 Objetivo</h2>
