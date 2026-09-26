@@ -1,13 +1,27 @@
-# Olá! Me chamo Juan Cardoso 👋
+# 👋 Olá! Me chamo
 
-💻 **Profissional de TI** com formação em **Desenvolvimento Mobile**, atualmente direcionando minha carreira para **Desenvolvimento de Software**, com foco em **C# e MySQL**.
+<h1>
+  <code>Juan Cardoso</code>
+</h1>
 
-🚀 Busco transformar meus conhecimentos em **projetos práticos e aplicações**, desenvolvendo minha experiência com programação, bancos de dados e boas práticas de desenvolvimento.
+<p>
+  💻 <strong>Profissional de TI</strong> com formação em
+  <strong>Desenvolvimento Mobile</strong>, direcionando minha carreira para
+  <strong>Desenvolvimento de Software</strong>, com foco em
+  <strong>C# e MySQL</strong>.
+</p>
 
-markdown
+<p>
+  🚀 Busco transformar meus conhecimentos em
+  <strong>projetos práticos e aplicações</strong>, desenvolvendo minha
+  experiência com programação, bancos de dados e boas práticas de desenvolvimento.
+</p>
+
+---
+
 ## 🎓 Formação
 
-csharp
+```csharp
 public class Formacao
 {
     public string Graduacao { get; set; } =
@@ -16,16 +30,24 @@ public class Formacao
     public string Tecnico { get; set; } =
         "Técnico em Eletrônica e Automação Industrial — ETEC";
 }
+```
+
+---
 
 ## 🛠️ Hard Skills
 
 <div align="left">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" />
+&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
+&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
+&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40" alt="Visual Studio" />
+&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40" alt="Windows" />
 
 </div>
@@ -34,12 +56,11 @@ public class Formacao
 
 `C#` &nbsp;&nbsp; `MySQL` &nbsp;&nbsp; `Git` &nbsp;&nbsp; `GitHub` &nbsp;&nbsp; `Visual Studio` &nbsp;&nbsp; `Windows`
 
-<p>
-C# &nbsp;&nbsp;&nbsp;&nbsp; MySQL &nbsp;&nbsp;&nbsp;&nbsp; Git &nbsp;&nbsp;&nbsp;&nbsp; GitHub &nbsp;&nbsp;&nbsp;&nbsp; Visual Studio &nbsp;&nbsp;&nbsp;&nbsp; Windows
-</p>
+---
 
 ## 🎯 Objetivo
 
+```csharp
 public class Objetivo
 {
     public string Cargo { get; set; } =
@@ -52,14 +73,18 @@ public class Objetivo
         "Aplicar meus conhecimentos, desenvolver experiência profissional " +
         "e continuar evoluindo na área de Tecnologia.";
 }
+```
 
-<div>
-  <a href="https://www.linkedin.com/in/juancardo" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
+---
 
-  <a href="https://judge.beecrowd.com/pt/profile/317243" target="_blank">
-    <img src="https://img.shields.io/badge/-beecrowd-%23FFD700?style=for-the-badge&logoColor=%235B2C83" target="_blank">
-  </a>
+<div align="center">
+
+<a href="https://www.linkedin.com/in/juancardo">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://judge.beecrowd.com/pt/profile/317243">
+  <img src="https://img.shields.io/badge/beecrowd-FFD700?style=for-the-badge&logoColor=5B2C83">
+</a>
+
 </div>
-
