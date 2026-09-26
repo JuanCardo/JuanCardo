@@ -21,7 +21,7 @@
 
 <hr>
 
-<h2>🎓 Formação</h2>
+<h2>Formação</h2>
 
 <p>
   🎓 &nbsp; <strong>Tecnólogo em Desenvolvimento Mobile — UNINTER</strong>
@@ -33,7 +33,7 @@
 
 <hr>
 
-<h2>🛠️ Hard Skills</h2>
+<h2>Hard Skills</h2>
 
 <div align="left">
 
