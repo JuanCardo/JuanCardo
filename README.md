@@ -17,7 +17,7 @@
 
 <hr>
 
-<h2 align="center">🎓 Formação</h2>
+<h2 align="center">Formação</h2>
 
 <p align="center">
   🎓 &nbsp; <strong>Tecnólogo em Desenvolvimento Mobile — UNINTER</strong>
@@ -29,50 +29,49 @@
 
 <hr>
 
-<h2 align="center">🛠️ Hard Skills</h2>
+<h2 align="center">Hard Skills</h2>
 
 <div align="center">
 
-<table border="0" cellspacing="0" cellpadding="10" style="border-collapse: collapse; border: none;">
-  <tr>
-    <td align="center" width="100" style="border: none;">
-      <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" alt="C#" />
-      </a>
-      <br /><sub><b>C#</b></sub>
-    </td>
-    <td align="center" width="100" style="border: none;">
-      <a href="https://www.mysql.com/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" />
-      </a>
-      <br /><sub><b>MySQL</b></sub>
-    </td>
-    <td align="center" width="100" style="border: none;">
-      <a href="https://git-scm.com/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git" />
-      </a>
-      <br /><sub><b>Git</b></sub>
-    </td>
-    <td align="center" width="100" style="border: none;">
-      <a href="https://github.com/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub" />
-      </a>
-      <br /><sub><b>GitHub</b></sub>
-    </td>
-    <td align="center" width="100" style="border: none;">
-      <a href="https://visualstudio.microsoft.com/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="50" height="50" alt="Visual Studio" />
-      </a>
-      <br /><sub><b>Visual Studio</b></sub>
-    </td>
-    <td align="center" width="100" style="border: none;">
-      <a href="https://www.microsoft.com/windows" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50" height="50" alt="Windows" />
-      </a>
-      <br /><sub><b>Windows</b></sub>
-    </td>
-  </tr>
-</table>
+<p>
+  <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" alt="C#" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://visualstudio.microsoft.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="50" height="50" alt="Visual Studio" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.microsoft.com/windows" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50" height="50" alt="Windows" />
+  </a>
+</p>
+
+<p>
+  <sub><b>C#</b></sub>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <sub><b>MySQL</b></sub>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <sub><b>Git</b></sub>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <sub><b>GitHub</b></sub>
+  &nbsp;
+  <sub><b>Visual Studio</b></sub>
+  &nbsp;&nbsp;
+  <sub><b>Windows</b></sub>
+</p>
 
 </div>
 
