@@ -1,6 +1,10 @@
-<h1 align="left">
-  <code>Juan Cardoso</code> 👋
-</h1>
+<div align="left">
+
+<pre>
+&gt; Juan Cardoso|
+</pre>
+
+</div>
 
 <p>
   💻 <strong>Profissional de TI</strong> com formação em
@@ -20,11 +24,11 @@
 <h2>🎓 Formação</h2>
 
 <p>
-  <strong>• Tecnólogo em Desenvolvimento Mobile — UNINTER</strong>
+  🎓 &nbsp; <strong>Tecnólogo em Desenvolvimento Mobile — UNINTER</strong>
 </p>
 
 <p>
-  <strong>• Técnico em Eletrônica e Automação Industrial — ETEC</strong>
+  ⚙️ &nbsp; <strong>Técnico em Eletrônica e Automação Industrial — ETEC</strong>
 </p>
 
 <hr>
@@ -34,15 +38,15 @@
 <div align="left">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" />
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40" alt="Visual Studio" />
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40" alt="Windows" />
 
 </div>
@@ -50,11 +54,16 @@
 <br>
 
 <p>
-  <strong>C#</strong> &nbsp;&nbsp;
-  <strong>MySQL</strong> &nbsp;&nbsp;
-  <strong>Git</strong> &nbsp;&nbsp;
-  <strong>GitHub</strong> &nbsp;&nbsp;
-  <strong>Visual Studio</strong> &nbsp;&nbsp;
+  <strong>C#</strong>
+  &nbsp;&nbsp;&nbsp;
+  <strong>MySQL</strong>
+  &nbsp;&nbsp;&nbsp;
+  <strong>Git</strong>
+  &nbsp;&nbsp;&nbsp;
+  <strong>GitHub</strong>
+  &nbsp;&nbsp;&nbsp;
+  <strong>Visual Studio</strong>
+  &nbsp;&nbsp;&nbsp;
   <strong>Windows</strong>
 </p>
 
