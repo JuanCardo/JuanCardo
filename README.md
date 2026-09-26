@@ -1,19 +1,15 @@
-<div align="left">
+<h1 align="center">
+  <code>&gt; Juan Cardoso|</code>
+</h1>
 
-<pre>
-&gt; Juan Cardoso|
-</pre>
-
-</div>
-
-<p>
+<p align="center">
   💻 <strong>Profissional de TI</strong> com formação em
   <strong>Desenvolvimento Mobile</strong>, direcionando minha carreira para
   <strong>Desenvolvimento de Software</strong>, com foco em
   <strong>C# e MySQL</strong>.
 </p>
 
-<p>
+<p align="center">
   🚀 Busco transformar meus conhecimentos em
   <strong>projetos práticos e aplicações</strong>, desenvolvendo minha
   experiência com programação, bancos de dados e boas práticas de desenvolvimento.
@@ -21,57 +17,55 @@
 
 <hr>
 
-<h2>Formação</h2>
+<h2 align="center">🎓 Formação</h2>
 
-<p>
+<p align="center">
   🎓 &nbsp; <strong>Tecnólogo em Desenvolvimento Mobile — UNINTER</strong>
 </p>
 
-<p>
+<p align="center">
   ⚙️ &nbsp; <strong>Técnico em Eletrônica e Automação Industrial — ETEC</strong>
 </p>
 
 <hr>
 
-<h2>Hard Skills</h2>
+<h2 align="center">🛠️ Hard Skills</h2>
 
-<div align="left">
+<div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40" alt="Visual Studio" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40" alt="Windows" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" alt="C#" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="50" height="50" alt="Visual Studio" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50" height="50" alt="Windows" />
+
+<br><br>
+
+<strong>C#</strong>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<strong>MySQL</strong>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<strong>Git</strong>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<strong>GitHub</strong>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<strong>Visual Studio</strong>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<strong>Windows</strong>
 
 </div>
 
-<br>
-
-<p>
-  <strong>C#</strong>
-  &nbsp;&nbsp;&nbsp;
-  <strong>MySQL</strong>
-  &nbsp;&nbsp;&nbsp;
-  <strong>Git</strong>
-  &nbsp;&nbsp;&nbsp;
-  <strong>GitHub</strong>
-  &nbsp;&nbsp;&nbsp;
-  <strong>Visual Studio</strong>
-  &nbsp;&nbsp;&nbsp;
-  <strong>Windows</strong>
-</p>
-
 <hr>
 
-<h2>🎯 Objetivo</h2>
+<h2 align="center">🎯 Objetivo</h2>
 
-<p>
+<p align="center">
   Busco uma oportunidade como
   <strong>Desenvolvedor C# Júnior</strong>,
   <strong>Desenvolvedor de Software Júnior</strong>,
