@@ -17,19 +17,19 @@
 
 <hr>
 
-<h2 align="center">Formação</h2>
+<h2 align="center">🎓 Formação</h2>
 
 <p align="center">
-  🎓 &nbsp; <strong>Tecnólogo em Desenvolvimento Mobile — UNINTER</strong>
+   &nbsp; <strong>Tecnólogo em Desenvolvimento Mobile — UNINTER</strong>
 </p>
 
 <p align="center">
-  ⚙️ &nbsp; <strong>Técnico em Eletrônica e Automação Industrial — ETEC</strong>
+   &nbsp; <strong>Técnico em Eletrônica e Automação Industrial — ETEC</strong>
 </p>
 
 <hr>
 
-<h2 align="center">Hard Skills</h2>
+<h2 align="center">🧰 Hard Skills</h2>
 
 <div align="center">
 
