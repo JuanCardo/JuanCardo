@@ -33,32 +33,17 @@
 
 <div align="center">
 
-<div style="display:inline-block; margin:0 15px; text-align:center;">
-  <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" alt="C#" /></a>
-  <br /><sub><b>C#</b></sub>
-</div>
-<div style="display:inline-block; margin:0 15px; text-align:center;">
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" /></a>
-  <br /><sub><b>MySQL</b></sub>
-</div>
-<div style="display:inline-block; margin:0 15px; text-align:center;">
-  <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git" /></a>
-  <br /><sub><b>Git</b></sub>
-</div>
-<div style="display:inline-block; margin:0 15px; text-align:center;">
-  <a href="https://github.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub" /></a>
-  <br /><sub><b>GitHub</b></sub>
-</div>
-<div style="display:inline-block; margin:0 15px; text-align:center;">
-  <a href="https://visualstudio.microsoft.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="50" height="50" alt="Visual Studio" /></a>
-  <br /><sub><b>Visual Studio</b></sub>
-</div>
-<div style="display:inline-block; margin:0 15px; text-align:center;">
-  <a href="https://www.microsoft.com/windows" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50" height="50" alt="Windows" /></a>
-  <br /><sub><b>Windows</b></sub>
-</div>
+<p>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+</p>
 
 </div>
+
 <hr>
 
 <h2 align="center">🎯 Objetivo</h2>
