@@ -7,23 +7,36 @@
 🎓 **Tecnólogo em Desenvolvimento Mobile — UNINTER**  
 ⚙️ **Técnico em Eletrônica e Automação Industrial — ETEC**
 
-### 📚 Atualmente estudando
+## 🛠️ Hard Skills
 
-* 🚀 C#
-* 🗄️ MySQL e bancos de dados
-* 💻 Desenvolvimento de aplicações
-* 🔄 Git e GitHub
-* 🛠️ Visual Studio
+<div align="left">
 
-### 🛠️ Conhecimentos
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" />
+      <br>C#
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
+      <br>MySQL
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
+      <br>GitHub
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40" alt="Visual Studio" />
+      <br>Visual Studio
+    </td>
+  </tr>
+</table>
 
-* C#
-* MySQL
-* Visual Studio
-* Git e GitHub
-* Lógica de programação
-* Desenvolvimento de aplicações
-* Windows
+</div>
 
 ### 📂 Projetos
 
