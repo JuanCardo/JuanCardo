@@ -1,7 +1,5 @@
-# 👋 Olá! Me chamo
-
-<h1>
-  <code>Juan Cardoso</code>
+<h1 align="left">
+  <code>Juan Cardoso</code> 👋
 </h1>
 
 <p>
@@ -17,24 +15,21 @@
   experiência com programação, bancos de dados e boas práticas de desenvolvimento.
 </p>
 
----
+<hr>
 
-## 🎓 Formação
+<h2>🎓 Formação</h2>
 
-```csharp
-public class Formacao
-{
-    public string Graduacao { get; set; } =
-        "Tecnólogo em Desenvolvimento Mobile — UNINTER";
+<p>
+  <strong>• Tecnólogo em Desenvolvimento Mobile — UNINTER</strong>
+</p>
 
-    public string Tecnico { get; set; } =
-        "Técnico em Eletrônica e Automação Industrial — ETEC";
-}
-```
+<p>
+  <strong>• Técnico em Eletrônica e Automação Industrial — ETEC</strong>
+</p>
 
----
+<hr>
 
-## 🛠️ Hard Skills
+<h2>🛠️ Hard Skills</h2>
 
 <div align="left">
 
@@ -54,36 +49,38 @@ public class Formacao
 
 <br>
 
-`C#` &nbsp;&nbsp; `MySQL` &nbsp;&nbsp; `Git` &nbsp;&nbsp; `GitHub` &nbsp;&nbsp; `Visual Studio` &nbsp;&nbsp; `Windows`
+<p>
+  <strong>C#</strong> &nbsp;&nbsp;
+  <strong>MySQL</strong> &nbsp;&nbsp;
+  <strong>Git</strong> &nbsp;&nbsp;
+  <strong>GitHub</strong> &nbsp;&nbsp;
+  <strong>Visual Studio</strong> &nbsp;&nbsp;
+  <strong>Windows</strong>
+</p>
 
----
+<hr>
 
-## 🎯 Objetivo
+<h2>🎯 Objetivo</h2>
 
-```csharp
-public class Objetivo
-{
-    public string Cargo { get; set; } =
-        "Desenvolvedor C# Júnior";
+<p>
+  Busco uma oportunidade como
+  <strong>Desenvolvedor C# Júnior</strong>,
+  <strong>Desenvolvedor de Software Júnior</strong>,
+  <strong>Analista de Sistemas Júnior</strong> ou
+  <strong>Estagiário em Desenvolvimento</strong>, onde possa aplicar meus
+  conhecimentos, desenvolver experiência profissional e continuar evoluindo
+  na área de Tecnologia.
+</p>
 
-    public string Foco { get; set; } =
-        "Desenvolvimento de Software";
-
-    public string ObjetivoProfissional { get; set; } =
-        "Aplicar meus conhecimentos, desenvolver experiência profissional " +
-        "e continuar evoluindo na área de Tecnologia.";
-}
-```
-
----
+<hr>
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/juancardo">
+<a href="https://www.linkedin.com/in/juancardo" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="https://judge.beecrowd.com/pt/profile/317243">
+<a href="https://judge.beecrowd.com/pt/profile/317243" target="_blank">
   <img src="https://img.shields.io/badge/beecrowd-FFD700?style=for-the-badge&logoColor=5B2C83">
 </a>
 
